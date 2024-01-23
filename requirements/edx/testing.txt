@@ -106,7 +106,7 @@ bleach[css]==6.1.0
     #   xblock-poll
 boto==2.49.0
     # via -r requirements/edx/base.txt
-boto3==1.33.12
+boto3==1.28.64
     # via
     #   -r requirements/edx/base.txt
     #   django-ses
